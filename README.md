@@ -44,9 +44,6 @@ Now open your browser at 👉 [http://localhost:8000](http://localhost:8000)
 ### Login
 ![login](screenshots/login.png)
 
-### Home Page
-![Home Page](screenshots/homepage.png)
-
 ### Admin Dashboard
 ![Dashboard](screenshots/dashboard.png)
 
